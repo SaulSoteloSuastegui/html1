@@ -1,0 +1,28 @@
+
+
+
+#contenedor {
+	width: 960px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background: #000;
+}
+header{
+	background: orange;
+}
+nav{
+	background: blue;
+}
+section{
+	background: gray;
+}
+aside{
+    background: orange;
+}
+aside{
+    background: blue;
+}
+footer{
+	background: orange;
+}
